@@ -1,0 +1,12 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\obj\Debug\geolatlong.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\obj\Debug\geolatlong.Form1.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\obj\Debug\geolatlong.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\obj\Debug\geolatlong.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\bin\Debug\geolatlong.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\bin\Debug\geolatlong.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\obj\Debug\geolatlong.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\obj\Debug\geolatlong.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\geolatlong\geolatlong\bin\Debug\geolatlong.exe.config
+C:\Users\Administrador\Documents\GitHubVisualStudio\geolatlong\geolatlong\bin\Debug\geolatlong.exe.config
+C:\Users\Administrador\Documents\GitHubVisualStudio\geolatlong\geolatlong\obj\Debug\geolatlong.exe
+C:\Users\Administrador\Documents\GitHubVisualStudio\geolatlong\geolatlong\obj\Debug\geolatlong.pdb
